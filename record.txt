@@ -1,2 +1,2 @@
 2017/12/3
-Learn to use pull requests.
+Learn to create a new branch and use pull requests.
